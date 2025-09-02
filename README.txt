@@ -1,0 +1,1 @@
+Refinament d'un Large Language Model perquè incorpori valors ètics.
